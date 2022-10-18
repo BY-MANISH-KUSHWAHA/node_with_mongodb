@@ -1,0 +1,22 @@
+{
+  "name": "node_with_mongodb",
+  "version": "1.0.0",
+  "description": "curd operation in node.js and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BY-MANISH-KUSHWAHA/node_with_mongodb.git"
+  },
+  "author": "Manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BY-MANISH-KUSHWAHA/node_with_mongodb/issues"
+  },
+  "homepage": "https://github.com/BY-MANISH-KUSHWAHA/node_with_mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
