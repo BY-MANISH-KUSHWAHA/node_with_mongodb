@@ -25,7 +25,9 @@ IOS => Native C
 
 JavaScript => Browser
 
-ModernJavaScriot => Transpilers => JAVA => Android ModernJavaScript => Transpiler => Native C => IOS
+ModernJavaScriot => Transpilers => JAVA => Android => calculator
 
-Modern JavaScript. => Transpiler => C++ => Kernel
+ModernJavaScript => Transpiler => Native C => IOS => calculator
+
+Modern JavaScript. => Transpiler => C++ => Kernel => calculator
 ```
